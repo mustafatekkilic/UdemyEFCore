@@ -1,0 +1,3 @@
+Scaffold Db to Codes
+
+Scaffold-DbContext "Server=LAPTOP-SKMS1FNM;Database=UdemyEFCoreDatabaseFirstDB;Trusted_Connection=True;User Id=sa;Password=newBeginning153" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
