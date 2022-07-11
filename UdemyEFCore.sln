@@ -13,19 +13,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.ReleationShipsE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.Loadings", "UdemyEFCore.Loadings\UdemyEFCore.Loadings.csproj", "{7988F9FA-DC93-4530-8B5D-2505EB9179F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.TPH", "UdemyEFCore.TPH\UdemyEFCore.TPH.csproj", "{FD0AF934-6C7D-43A1-84D3-29AC2714C607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.TPH", "UdemyEFCore.TPH\UdemyEFCore.TPH.csproj", "{FD0AF934-6C7D-43A1-84D3-29AC2714C607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEfCore.TPT", "UdemyEfCore.TPT\UdemyEfCore.TPT.csproj", "{3B476C63-5C4C-4334-BCF7-1DD140157686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEfCore.TPT", "UdemyEfCore.TPT\UdemyEfCore.TPT.csproj", "{3B476C63-5C4C-4334-BCF7-1DD140157686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.OwnedEntityTypes", "UdemyEFCore.OwnedEntityTypes\UdemyEFCore.OwnedEntityTypes.csproj", "{30A100DE-C653-4B57-A1D4-6573ECE42F11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.OwnedEntityTypes", "UdemyEFCore.OwnedEntityTypes\UdemyEFCore.OwnedEntityTypes.csproj", "{30A100DE-C653-4B57-A1D4-6573ECE42F11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.KeylessEntityTypes", "UdemyEFCore.KeylessEntityTypes\UdemyEFCore.KeylessEntityTypes.csproj", "{2C713E16-2A7F-4B1D-B726-EE184474EA10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.KeylessEntityTypes", "UdemyEFCore.KeylessEntityTypes\UdemyEFCore.KeylessEntityTypes.csproj", "{2C713E16-2A7F-4B1D-B726-EE184474EA10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.Indexes", "UdemyEFCore.Indexes\UdemyEFCore.Indexes.csproj", "{8994D78C-9020-4D14-8728-558526DCCBDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.Indexes", "UdemyEFCore.Indexes\UdemyEFCore.Indexes.csproj", "{8994D78C-9020-4D14-8728-558526DCCBDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.ClientVsServerEvulation", "UdemyEFCore.ClientVsServerEvulation\UdemyEFCore.ClientVsServerEvulation.csproj", "{2ED24DF4-78E9-4F92-93C4-3BACF55028CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.ClientVsServerEvulation", "UdemyEFCore.ClientVsServerEvulation\UdemyEFCore.ClientVsServerEvulation.csproj", "{2ED24DF4-78E9-4F92-93C4-3BACF55028CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.Queries", "UdemyEFCore.Queries\UdemyEFCore.Queries.csproj", "{DA7D3493-3A35-4554-9B5E-2EFFB62DB994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.Queries", "UdemyEFCore.Queries\UdemyEFCore.Queries.csproj", "{DA7D3493-3A35-4554-9B5E-2EFFB62DB994}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEfCore.GlobalQueryFilters", "UdemyEfCore.GlobalQueryFilters\UdemyEfCore.GlobalQueryFilters.csproj", "{DAE1CDAC-324B-4DB1-B0EF-9059C5E81F7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.StoredProcedure_Function", "UdemyEFCore.StoredProcedure_Function\UdemyEFCore.StoredProcedure_Function.csproj", "{63CE2A45-0004-4D84-943A-D46B0D08F0AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.AutoMapper", "UdemyEFCore.AutoMapper\UdemyEFCore.AutoMapper.csproj", "{FF9F6D78-4EA6-47AA-915D-1F3CA0FA8BD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.Transaction", "UdemyEFCore.Transaction\UdemyEFCore.Transaction.csproj", "{5B99EA16-1FA1-4028-AA6D-85F7462FCD17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.MultipleDbContext", "UdemyEFCore.MultipleDbContext\UdemyEFCore.MultipleDbContext.csproj", "{6336DACC-5551-481B-AF60-CF78E89D3952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyEFCore.IsolationLevels", "UdemyEFCore.IsolationLevels\UdemyEFCore.IsolationLevels.csproj", "{D2BEAD7A-B2A4-417C-B07E-9B209A8579FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyEFCore.Concurrency", "UdemyEFCore.Concurrency\UdemyEFCore.Concurrency.csproj", "{D3AE2FEF-CAB3-470A-892B-0A577955B13F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +95,34 @@ Global
 		{DA7D3493-3A35-4554-9B5E-2EFFB62DB994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7D3493-3A35-4554-9B5E-2EFFB62DB994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7D3493-3A35-4554-9B5E-2EFFB62DB994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE1CDAC-324B-4DB1-B0EF-9059C5E81F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE1CDAC-324B-4DB1-B0EF-9059C5E81F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE1CDAC-324B-4DB1-B0EF-9059C5E81F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE1CDAC-324B-4DB1-B0EF-9059C5E81F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CE2A45-0004-4D84-943A-D46B0D08F0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CE2A45-0004-4D84-943A-D46B0D08F0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CE2A45-0004-4D84-943A-D46B0D08F0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CE2A45-0004-4D84-943A-D46B0D08F0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9F6D78-4EA6-47AA-915D-1F3CA0FA8BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9F6D78-4EA6-47AA-915D-1F3CA0FA8BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9F6D78-4EA6-47AA-915D-1F3CA0FA8BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9F6D78-4EA6-47AA-915D-1F3CA0FA8BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B99EA16-1FA1-4028-AA6D-85F7462FCD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B99EA16-1FA1-4028-AA6D-85F7462FCD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B99EA16-1FA1-4028-AA6D-85F7462FCD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B99EA16-1FA1-4028-AA6D-85F7462FCD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6336DACC-5551-481B-AF60-CF78E89D3952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6336DACC-5551-481B-AF60-CF78E89D3952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6336DACC-5551-481B-AF60-CF78E89D3952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6336DACC-5551-481B-AF60-CF78E89D3952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BEAD7A-B2A4-417C-B07E-9B209A8579FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BEAD7A-B2A4-417C-B07E-9B209A8579FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BEAD7A-B2A4-417C-B07E-9B209A8579FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BEAD7A-B2A4-417C-B07E-9B209A8579FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AE2FEF-CAB3-470A-892B-0A577955B13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE2FEF-CAB3-470A-892B-0A577955B13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE2FEF-CAB3-470A-892B-0A577955B13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE2FEF-CAB3-470A-892B-0A577955B13F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
