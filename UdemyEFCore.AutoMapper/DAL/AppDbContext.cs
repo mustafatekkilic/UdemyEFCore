@@ -12,7 +12,7 @@ namespace UdemyEFCore.AutoMapper.DAL
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<Product> Product { get; set; } //GitTest
+        public DbSet<Product> Product { get; set; }
         public DbSet<Category> Category { get; set; }
         public DbSet<ProductFeatures> ProductFeatures { get; set; }
         public DbSet<Person> People { get; set; }
